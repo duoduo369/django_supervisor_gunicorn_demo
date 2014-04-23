@@ -1,0 +1,44 @@
+
+2014-04-23 16:04:32,847 INFO spawned: 'supervisor_django' with pid 3889
+2014-04-23 16:04:32,862 INFO exited: supervisor_django (exit status 0; not expected)
+2014-04-23 16:04:33,866 INFO spawned: 'supervisor_django' with pid 3896
+2014-04-23 16:04:33,882 INFO exited: supervisor_django (exit status 0; not expected)
+2014-04-23 16:04:35,886 INFO spawned: 'supervisor_django' with pid 3903
+2014-04-23 16:04:35,905 INFO exited: supervisor_django (exit status 0; not expected)
+2014-04-23 16:04:38,912 INFO spawned: 'supervisor_django' with pid 3910
+2014-04-23 16:04:38,922 INFO exited: supervisor_django (exit status 0; not expected)
+2014-04-23 16:04:39,923 INFO gave up: supervisor_django entered FATAL state, too many start retries too quickly
+2014-04-23 18:43:02,604 INFO RPC interface 'supervisor' initialized
+2014-04-23 18:43:02,615 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-04-23 18:43:02,615 INFO daemonizing the supervisord process
+2014-04-23 18:43:02,617 INFO supervisord started with pid 6071
+2014-04-23 18:43:03,621 INFO spawned: 'supervisor_django' with pid 6074
+2014-04-23 18:43:03,744 INFO exited: supervisor_django (exit status 2; not expected)
+2014-04-23 18:43:04,747 INFO spawned: 'supervisor_django' with pid 6080
+2014-04-23 18:43:04,867 INFO exited: supervisor_django (exit status 2; not expected)
+2014-04-23 18:43:06,873 INFO spawned: 'supervisor_django' with pid 6089
+2014-04-23 18:43:06,992 INFO exited: supervisor_django (exit status 2; not expected)
+2014-04-23 18:43:10,623 INFO spawned: 'supervisor_django' with pid 6094
+2014-04-23 18:43:10,754 INFO exited: supervisor_django (exit status 2; not expected)
+2014-04-23 18:43:11,755 INFO gave up: supervisor_django entered FATAL state, too many start retries too quickly
+2014-04-23 18:44:20,409 INFO RPC interface 'supervisor' initialized
+2014-04-23 18:44:20,409 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-04-23 18:44:20,410 INFO daemonizing the supervisord process
+2014-04-23 18:44:20,411 INFO supervisord started with pid 6345
+2014-04-23 18:44:21,415 INFO spawned: 'supervisor_django' with pid 6347
+2014-04-23 18:44:22,546 INFO success: supervisor_django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-23 18:45:34,021 INFO stopped: supervisor_django (exit status 0)
+2014-04-23 18:57:03,240 INFO RPC interface 'supervisor' initialized
+2014-04-23 18:57:03,240 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-04-23 18:57:03,241 INFO daemonizing the supervisord process
+2014-04-23 18:57:03,242 INFO supervisord started with pid 6742
+2014-04-23 18:57:04,246 INFO spawned: 'supervisor_django' with pid 6744
+2014-04-23 18:57:05,377 INFO success: supervisor_django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-23 18:57:14,416 INFO stopped: supervisor_django (exit status 0)
+2014-04-23 18:58:24,048 INFO RPC interface 'supervisor' initialized
+2014-04-23 18:58:24,048 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2014-04-23 18:58:24,049 INFO daemonizing the supervisord process
+2014-04-23 18:58:24,050 INFO supervisord started with pid 6847
+2014-04-23 18:58:25,055 INFO spawned: 'supervisor_django' with pid 6849
+2014-04-23 18:58:26,184 INFO success: supervisor_django entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2014-04-23 18:58:31,050 INFO stopped: supervisor_django (exit status 0)
