@@ -5,7 +5,7 @@ usage
 ---
 
     git clone <项目地址> ~/supervisor_demo
-    sudo ln -s ~/supervisor_demo /opt
+    sudo ln -s ~/supervisor_demo /opt/supervisor_demo
 
     pip install virtualenv
     mkdir ~/python_evn
